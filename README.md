@@ -1,2 +1,3 @@
-# Doc-va-tong-hop-thong-tin-SGK
-Cho bài tuyển chọn thành viên UIT AI CLUB
+Hướng dẫn sử dụng:
++biên dịch code trên bằng g++
++chạy file và chương trình sẽ xuất ra một file tổng hợp dành cho 2 file txt sgk cũ
